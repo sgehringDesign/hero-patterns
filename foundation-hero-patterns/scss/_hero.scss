@@ -13,6 +13,9 @@
 .purplebar-placeholder {
   min-height: 34px;
   background: rgb(68, 73, 156);
+  font-size: 10px;
+  color:#fff;
+  text-align: center;
 }
 
 .topbar-placeholder {
@@ -34,6 +37,8 @@
 	-webkit-align-items: center;
 	-webkit-box-align: center;
 	align-items: center;
+	
+  background-position: center; 
 	
   
   h1 {
